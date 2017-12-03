@@ -9,7 +9,7 @@ var ContactActions = {
    */
   create: function(newContact) {
   	// adding avatar randomly!
-  	var avatar = 'img/faces/' + Math.floor(Math.random() * (15-1) + 1) + '.jpg';
+  	var avatar = 'img/faces/' + Math.floor(Math.random() * (10-1) + 1) + '.jpg';
   	newContact.avatar = avatar;
 
     AppDispatcher.dispatch({
