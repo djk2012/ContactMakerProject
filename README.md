@@ -1,4 +1,4 @@
-ContactProject
+ContactMakerProject
 
 ContactProject is writted by React.JS (flux),JavaScript and HTML,CSS.
 
