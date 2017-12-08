@@ -1,6 +1,7 @@
 var React = require('react');
 var ContactActions = require('../actions/ContactActions');
 
+
 var ContactModal = React.createClass({
 	render:function() {
 		return(

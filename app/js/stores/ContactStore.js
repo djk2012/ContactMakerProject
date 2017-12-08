@@ -9,6 +9,8 @@ var CHANGE_EVENT = 'change';
 var _contacts = [];
 var _editContact = {};
 
+
+
 // will be used to incremental id for contacts
 var currentId = 0;
 

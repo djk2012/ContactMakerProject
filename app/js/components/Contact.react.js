@@ -1,6 +1,7 @@
 var React = require('react');
 var ContactActions = require('../actions/ContactActions');
 
+
 var Contact = React.createClass({
 	render:function() {
 		var contact = this.props.contact;

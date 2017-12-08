@@ -1,6 +1,7 @@
 var React = require('react');
 var Contact = require('./Contact.react');
 
+
 var ContactList = React.createClass({
 	render:function() {
 		var contacts=[];

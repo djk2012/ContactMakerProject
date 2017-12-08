@@ -6,6 +6,7 @@ var ContactList = require('./ContactList.react');
 var ContactStore = require('../stores/ContactStore');
 var ContactActions = require('../actions/ContactActions');
 
+
 /**
  * Retrieve the current Contacts data from the ContactStore
  */
